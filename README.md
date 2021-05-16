@@ -6,10 +6,10 @@ node start index.js </br>
 npm run devStart
 
 # external-dependencies
-npm install cors
-npm install body-parser
-npm install express
-npm install mysql
+npm install cors </br>
+npm install body-parser </br>
+npm install express </br>
+npm install mysql </br>
 npm install nodemon
 
 
